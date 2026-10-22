@@ -1,0 +1,18 @@
+# Binaries and patches (generated locally via scripts)
+*.exe
+*.dll
+*.old
+*.bin
+
+# Profiles, credentials & local state
+.profiles/
+*.log
+credentials.json
+__pycache__/
+*.pyc
+
+# IDE & OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
