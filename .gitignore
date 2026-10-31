@@ -1,0 +1,16 @@
+# Python bytecode & caches
+__pycache__/
+*.py[cod]
+
+# Local state, logs & credentials
+.cli-subagent/
+.profiles/
+*.log
+credentials.json
+
+# IDE & OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
