@@ -1,6 +1,7 @@
 # Universal Local CLI Subagent (`/cli-subagent`)
 
-> **Pool multiple local CLI environments and accounts across OpenAI Codex (`codex`), xAI Grok (`grok`), Antigravity (`agy`), Claude CLI, Qwen CLI, and OpenCode — with `<1ms` dynamic model tiering, quota balancing , and 100% prompt-driven onboarding.**
+> **Use multiple local CLI environments and accounts from single place, delegate parallel tasks and balance quotas (including free tier!) across:
+OpenAI Codex (`codex`), xAI Grok (`grok`), Antigravity (`agy`), Claude CLI, Qwen CLI, and OpenCode**
 
 [![Platform: Cross-Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue.svg)](#)
 [![Dependencies: Standard Python 3](https://img.shields.io/badge/Dependencies-Zero%20Third--Party%20Packages-brightgreen.svg)](#)
