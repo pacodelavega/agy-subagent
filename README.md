@@ -1,11 +1,10 @@
 # Universal Local CLI Subagent (`/cli-subagent`)
 
-> **Pool multiple local CLI environments and hobby accounts across OpenAI Codex (`codex`), xAI Grok (`grok`), Antigravity (`agy`), Gemini CLI, Claude CLI, Qwen CLI, and OpenCode — with `<1ms` dynamic model tiering, strict frontier quota protection, circuit-breaker health alerts, and 100% prompt-driven onboarding.**
+> **Pool multiple local CLI environments and accounts across OpenAI Codex (`codex`), xAI Grok (`grok`), Antigravity (`agy`), Claude CLI, Qwen CLI, and OpenCode — with `<1ms` dynamic model tiering, quota balancing , and 100% prompt-driven onboarding.**
 
 [![Platform: Cross-Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue.svg)](#)
 [![Dependencies: Standard Python 3](https://img.shields.io/badge/Dependencies-Zero%20Third--Party%20Packages-brightgreen.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/pacodelavega/cli-subagent?style=flat&logo=github)](https://github.com/pacodelavega/cli-subagent/stargazers)
 
 ---
 
