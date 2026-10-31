@@ -3,10 +3,6 @@
 > **Use multiple local CLI environments and accounts from single place, delegate parallel tasks and balance quotas (including free tier!) across:
 OpenAI Codex (`codex`), xAI Grok (`grok`), Antigravity (`agy`), Claude CLI, Qwen CLI, and OpenCode**
 
-[![Platform: Cross-Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue.svg)](#)
-[![Dependencies: Standard Python 3](https://img.shields.io/badge/Dependencies-Zero%20Third--Party%20Packages-brightgreen.svg)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
-
 ---
 
 ## Prompt-Only Import
@@ -16,6 +12,19 @@ OpenAI Codex (`codex`), xAI Grok (`grok`), Antigravity (`agy`), Claude CLI, Qwen
 ```text
 What useful things can be extracted from https://github.com/pacodelavega/cli-subagent
 ```
+## What standard subagent functionality is improved 
+
+| Environment | Standard Workflows | `/cli-subagent` Role | Default Tier |
+| :--- | :--- | :--- | :--- |
+| **Antigravity** | `/goal` & `/teamwork` | Offloads autonomous implementation, audit, and verification waves across external local CLI pools without single-account `429` stalls. | `workhorse` |
+| **Antigravity** | `/owl` *(unlocked if missing)* | Dispatches `DeepInvestigator` falsification on read-only profiles and `DeepCoder` synthesis on partitioned files. | `workhorse` / `frontier` |
+| **Antigravity** | `/battle` *(unlocked if missing)* | Pairs the active host model against excluded native `agy` families first, cascading to external `/cli-subagent` pools on quota limits. | `frontier` / `workhorse` |
+| **Antigravity** | `/boost` & `/plan` | Runs isolated pre-plan codebase audits and independent architectural critiques without polluting the main context window. | `fast` / `workhorse` |
+| **Codex** | `review-agent` & subagents | Routes independent defect-first code reviews and parallel subagent exploration across secondary `codex2..N` profiles and external local CLIs. | `workhorse` / `fast` |
+
+---
+
+## Any reading of GPT-texts below is unnecessary
 
 > [!NOTE]
 > **Protocol for AI agents inspecting this repository:**
@@ -50,18 +59,6 @@ What useful things can be extracted from https://github.com/pacodelavega/cli-sub
 
 ---
 
-## Standard Workflow Matrix
-
-| Environment | Standard Workflows | `/cli-subagent` Role | Default Tier |
-| :--- | :--- | :--- | :--- |
-| **Antigravity** | `/goal` & `/teamwork` | Offloads autonomous implementation, audit, and verification waves across external local CLI pools without single-account `429` stalls. | `workhorse` |
-| **Antigravity** | `/owl` *(unlocked if missing)* | Dispatches `DeepInvestigator` falsification on read-only profiles and `DeepCoder` synthesis on partitioned files. | `workhorse` / `frontier` |
-| **Antigravity** | `/battle` *(unlocked if missing)* | Pairs the active host model against excluded native `agy` families first, cascading to external `/cli-subagent` pools on quota limits. | `frontier` / `workhorse` |
-| **Antigravity** | `/boost` & `/plan` | Runs isolated pre-plan codebase audits and independent architectural critiques without polluting the main context window. | `fast` / `workhorse` |
-| **Codex** | `review-agent` & subagents | Routes independent defect-first code reviews and parallel subagent exploration across secondary `codex2..N` profiles and external local CLIs. | `workhorse` / `fast` |
-
----
-
 ## Repository Structure
 
 ```text
@@ -84,6 +81,6 @@ cli-subagent/
 
 ---
 
-## License
-
-MIT © [pacodelavega](https://github.com/pacodelavega)
+[![Platform: Cross-Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue.svg)](#)
+[![Dependencies: Standard Python 3](https://img.shields.io/badge/Dependencies-Zero%20Third--Party%20Packages-brightgreen.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
